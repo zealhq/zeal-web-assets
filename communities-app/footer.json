@@ -1,0 +1,38 @@
+{
+    "links": [
+        { 
+            "title": "General",
+            "links": [
+                { "target": "_self", "label": "Home", "url": "/" },
+                { "target": "_blank", "label": "About", "url": "https://gozeal.notion.site/About-323ab8ef0b7a42f4bd7c52349e408d00" },
+                { "target": "_blank", "label": "FAQ", "url": "https://gozeal.notion.site/FAQ-e1e7198a49db4e27ac69577f5954cd35" },
+                { "target": "_blank", "label": "Contact", "url": "https://gozeal.freshdesk.com" },
+                { "target": "_blank", "label": "Blog", "url": "https://gozeal.medium.com" }
+            ]
+        },
+        {
+            "title": "Legal",
+            "links": [
+                { "target": "_blank", "label": "Terms of Use", "url": "/terms" },
+                { "target": "_blank", "label": "Privacy Policy", "url": "/privacy-policy" },
+                { "target": "_blank", "label": "Cookie Policy", "url": "/cookie-policy" }
+            ]
+        },
+        {
+            "title": "Community",
+            "links": [
+                { "target": "_blank", "label": "Discord", "url": "https://discord.gg/KNdgra8M" },
+                { "target": "_blank", "label": "Twitter", "url": "https://x.com/zeal345909" },
+                { "target": "_blank", "label": "Facebook", "url": "https://www.facebook.com/thezealhq" },
+                { "target": "_blank", "label": "Youtube", "url": "https://www.youtube.com/channel/UCqQdtkl7luU7mm3ZeEyRGEg" },
+                { "target": "_blank", "label": "Report a Bug", "url": "https://gozeal.freshdesk.com/support/tickets/new?ticket_form=report_an_issue" }
+            ]
+        }
+    ],
+    "social": [
+        { "target": "_blank", "type": "twitter", "url": "https://x.com/zeal345909" },
+        { "target": "_blank", "type": "facebook", "url": "https://www.facebook.com/thezealhq" },
+        { "target": "_blank", "type": "youtube", "url": "https://www.youtube.com/channel/UCqQdtkl7luU7mm3ZeEyRGEg" },
+        { "target": "_blank", "type": "discord", "url": "https://discord.gg/KNdgra8M"}
+    ]
+}

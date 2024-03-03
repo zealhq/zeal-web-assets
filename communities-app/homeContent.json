@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "Level up your podcast listeners to community members!",
+    "subtitle": "Engage your listeners and build a community around your podcast.",
+    "action": {
+      "title": "Join Now",
+      "link": "/get-started"
+    }
+  },
+  "highlights": [
+    {
+      "type": "community",
+      "title": "Discord fans",
+      "subtitle": "Discord"
+    },
+    {
+      "type": "video",
+      "title": "Youtube followers",
+      "subtitle": "Youtube"
+    },
+    {
+      "type": "newsletter",
+      "title": "Newsletter members",
+      "subtitle": "Newsletter"
+    }
+  ],
+  "productFeatures": {
+    "subtitle": "3 simple steps",
+    "title": "Build your Community!",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Connect your Podcast",
+        "description": "Connect your Podcast from your hosting provider. We support all major providers."
+      },
+      {
+        "id": 2,
+        "title": "Connect your Discord",
+        "description": "Connect your Discord server account. We will create a new channel for your podcast."
+      },
+      {
+        "id": 3,
+        "title": "Setup bonus content",
+        "description": "Configure your bonus content from your podcast. We will automatically send it to your Discord server."
+      }
+    ],
+    "items": [
+      {
+        "id": 1,
+        "tag": "support",
+        "title": "Knowledge Hub",
+        "description": "Convert your existing content into a knowledge hub for your community.",
+        "feature": "Content Generation"
+      },
+      {
+        "id": 2,
+        "tag": "acquire",
+        "title": "Community Members",
+        "description": "Level up your listeners to community members.",
+        "feature": "Community Building"
+      },
+      {
+        "id": 3,
+        "tag": "experiment",
+        "title": "A/B Testing",
+        "description": "Test new content ideas, topics, guests with your community.",
+        "feature": "Collaboration"
+      },
+      {
+        "id": 4,
+        "tag": "reward",
+        "title": "Member Perks",
+        "description": "Boost engagement through personalized feeds for members.",
+        "feature": "Engagement"
+      }
+    ],
+    "action": {
+      "title": "Get Started Now!",
+      "link": "/get-started"
+    }
+  },
+  "featuredCommunities": [1,2,3,4,5]
+}

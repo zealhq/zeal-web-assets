@@ -1,0 +1,19 @@
+{
+    "home": [
+        { "target": "_blank", "label": "About", "url": "https://gozeal.notion.site/About-323ab8ef0b7a42f4bd7c52349e408d00" },
+        { "target": "_blank", "label": "FAQ", "url": "https://gozeal.notion.site/FAQ-e1e7198a49db4e27ac69577f5954cd35" },
+        { "target": "_blank", "label": "Contact", "url": "https://gozeal.freshdesk.com" }
+    ],
+    "explore": [
+        { "target": "_self", "label": "Productivity Club", "url": "/communities/pclub" },
+        { "target": "_self", "label": "SciFi Movies Fan Club", "url": "/communities/scifi-movies-fan-club"},
+        { "target": "_self", "label": "Investing CLub", "url": "/communities/investing-club" },
+        { "target": "_self", "label": "Better Health Community", "url": "/communities/better-health-community" }
+    ],
+    "blog": [
+        {"target": "_blank", "label": "Getting started with Zeal", "url": "/blog/getting-started-zeal"},
+        {"target": "_blank", "label": "Boost your Podcast", "url": "/blog/boost"},
+        {"target": "_blank", "label": "Build a great community", "url": "/blog/build"}
+    ],
+    "support": { "target": "_blank", "label": "Support", "url": "https://gozeal.freshdesk.com" }
+}

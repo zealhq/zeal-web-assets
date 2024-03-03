@@ -1,0 +1,90 @@
+{
+    "slug": "ai-product-managers-playbook",
+    "title": "The AI Product Managers Hub",
+    "summary": "This community is your one-stop shop for everything related to building impactful AI-powered products.",
+    "description": "This community is your one-stop shop for everything related to building impactful AI-powered products. Whether you're a seasoned veteran or just starting your journey, this is a space for you to connect, collaborate, and share your experiences with fellow AI product managers. Share your challenges, ideas, and insights related to building AI products.",
+    "imgUrl": "https://zealhq.github.io/zeal-web-assets/communities/ai-product-managers-hub/ai-product-managers-hub-card-v001.jpg",
+    "category": "Business Management",
+    "perksCount": 0,
+    "content": {
+        "image": {
+            "url": "https://zealhq.github.io/zeal-web-assets/communities/ai-product-managers-hub/ai-product-managers-hub-main-v001.jpg",
+            "alt": "The AI Product Managers Hub"
+        },
+        "featuredPerks": [],
+        "highlights": [
+            {
+              "type": "video",
+              "title": "Excusive interviews",
+              "subtitle": "Insightful conversations with AI product leaders."
+            },
+            {
+              "type": "community",
+              "title": "Connect with community members",
+              "subtitle": "Live spaces and discussions."
+            },
+            {
+              "type": "ebook",
+              "title": "Cheatsheets and manuals",
+              "subtitle": "Downloadable resources."
+            }
+        ],
+        "primaryCta": {
+            "title": "Get started now!",
+            "summary": "Here's a short quiz to get you started! Answer a few simple questions to get a personalized playbook!",
+            "link": {
+                "text": "Take the quiz",
+                "url": "https://gozeal.notion.site/Quiz-AI-Product-Manager-s-Playbook-4397b522090641fc97d2456825589371"
+            },
+            "image": {
+                "url": "https://zealhq.github.io/zeal-web-assets/communities/ai-product-managers-hub/ai-product-managers-hub-cta-v001.jpg",
+                "alt": "This short quiz will help us understand your unique perspective and needs as an AI product manager."
+            }
+        },
+        "communityBuzz": []
+    },
+    "channel": {
+        "type": "podcast",
+        "infoText": "About the Podcast",
+        "title": "The AI Product Manager's Playbook",
+        "summary": "Welcome to 'The AI Product Manager's Playbook,' the podcast dedicated to exploring the intricacies of managing digital products infused with cutting-edge technologies like machine learning, generative AI, and more. Join us as we delve into the dynamic world of AI product management, where traditional principles meet innovative methodologies to shape the future of digital experiences.",
+        "image": {
+            "url": "https://zealhq.github.io/zeal-web-assets/communities/ai-product-managers-hub/ai-product-managers-playbook-v001.jpg",
+            "alt": "The AI Product Manager's Playbook"
+        },
+        "links": [
+            {
+                "type": "link",
+                "url": "https://gozeal.notion.site/The-Podcast-19503aa51a894b84a3f63c6e28171413"
+            },
+            {
+                "type": "spotify",
+                "url": "https://gozeal.notion.site/The-Podcast-19503aa51a894b84a3f63c6e28171413"
+            },
+            {
+                "type": "apple",
+                "url": "https://gozeal.notion.site/The-Podcast-19503aa51a894b84a3f63c6e28171413"
+            },
+            {
+                "type": "youtube",
+                "url": "https://gozeal.notion.site/The-Podcast-19503aa51a894b84a3f63c6e28171413"
+            },
+            {
+                "type": "twitter",
+                "url": "https://gozeal.notion.site/The-Podcast-19503aa51a894b84a3f63c6e28171413"
+            },
+            {
+                "type": "facebook",
+                "url": "https://gozeal.notion.site/The-Podcast-19503aa51a894b84a3f63c6e28171413"
+            },
+            {
+                "type": "instagram",
+                "url": "https://gozeal.notion.site/The-Podcast-19503aa51a894b84a3f63c6e28171413"
+            },
+            {
+                "type": "discord",
+                "url": "https://gozeal.notion.site/The-Podcast-19503aa51a894b84a3f63c6e28171413"
+            }
+        ]
+    }
+}
