@@ -88,7 +88,7 @@
       "link": "/get-started"
     },
     "image": {
-      "url": "http://localhost:8080/communities-app/images/customer-success.jpg",
+      "url": "https://zealhq.github.io/zeal-web-assets/communities-app/images/customer-success.jpg",
       "alt": "The Zeal Success Story"
     }
   },
