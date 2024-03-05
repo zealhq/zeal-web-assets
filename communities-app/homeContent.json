@@ -9,54 +9,54 @@
   },
   "highlights": [
     {
-      "type": "community",
-      "title": "Discord fans",
-      "subtitle": "Discord"
+      "type": "podcast",
+      "title": "Podcast Listeners",
+      "subtitle": "Reward your listeners with hyper-personalized perks and benefits"
     },
     {
-      "type": "video",
-      "title": "Youtube followers",
-      "subtitle": "Youtube"
+      "type": "youtube",
+      "title": "YouTube subscribers",
+      "subtitle": "Delight your YouTube subscribers with post show recaps"
     },
     {
       "type": "newsletter",
       "title": "Newsletter members",
-      "subtitle": "Newsletter"
+      "subtitle": "Repurpose your newsletter content into a knowledge hub"  
     }
   ],
   "productFeatures": {
-    "subtitle": "3 simple steps",
-    "title": "Build your Community!",
-    "steps": [
+    "subtitle": "Unlock the Power of Community",
+    "title": "Zeal gives you Community Management Super-Powers",
+    "valuePropositions": [
       {
         "id": 1,
-        "title": "Connect your Podcast",
-        "description": "Connect your Podcast from your hosting provider. We support all major providers."
+        "title": "You are passionate about your content",
+        "description": "Content creation is where your heart is, you deserve a powerful connection with your audience."
       },
       {
         "id": 2,
-        "title": "Connect your Discord",
-        "description": "Connect your Discord server account. We will create a new channel for your podcast."
+        "title": "Growing your reach can be overwhelming",
+        "description": "Expanding your community takes time and effort that you'd instead spend on your content."
       },
       {
         "id": 3,
-        "title": "Setup bonus content",
-        "description": "Configure your bonus content from your podcast. We will automatically send it to your Discord server."
+        "title": "Zeal makes community growth effortless",
+        "description": "Whether you're looking to acquire new members, boost retention, or experiment with content ideas, Zeal has the tools and features to help you succeed."
       }
     ],
-    "items": [
+    "features": [
       {
         "id": 1,
         "tag": "support",
         "title": "Knowledge Hub",
-        "description": "Convert your existing content into a knowledge hub for your community.",
+        "description": "Repurpose your content, community contributions & feedback into a knowledge hub for your community.",
         "feature": "Content Generation"
       },
       {
         "id": 2,
-        "tag": "acquire",
-        "title": "Community Members",
-        "description": "Level up your listeners to community members.",
+        "tag": "grow",
+        "title": "Memberships",
+        "description": "Seamless social integration, streamlined member management, insightful analytics and retention tools.",
         "feature": "Community Building"
       },
       {
@@ -64,7 +64,7 @@
         "tag": "experiment",
         "title": "A/B Testing",
         "description": "Test new content ideas, topics, guests with your community.",
-        "feature": "Collaboration"
+        "feature": "Ideation"
       },
       {
         "id": 4,
@@ -75,9 +75,22 @@
       }
     ],
     "action": {
-      "title": "Get Started Now!",
+      "title": "Start Your Community Now!",
       "link": "/get-started"
     }
   },
-  "featuredCommunities": [1,2,3,4,5]
+  "successShowcase": {
+    "title": "Community Boss Level Unlocked!",
+    "tagline": "What Community Success feels like",
+    "description": "Effortless community building empowers you to both grow your audience and spend more time on the content creation that drives your success.",
+    "action": {
+      "title": "Start Your Community Now!",
+      "link": "/get-started"
+    },
+    "image": {
+      "url": "http://localhost:8080/communities-app/images/customer-success.jpg",
+      "alt": "The Zeal Success Story"
+    }
+  },
+  "featuredCommunities": [5]
 }

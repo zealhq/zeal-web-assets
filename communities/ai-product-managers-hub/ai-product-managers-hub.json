@@ -14,19 +14,19 @@
         "featuredPerks": [],
         "highlights": [
             {
-              "type": "video",
+              "type": "chat",
               "title": "Excusive interviews",
-              "subtitle": "Insightful conversations with AI product leaders."
+              "subtitle": "Insightful conversations with AI product leaders. Learn from the best in the industry."
             },
             {
               "type": "community",
-              "title": "Connect with community members",
-              "subtitle": "Live spaces and discussions."
+              "title": "Community connect",
+              "subtitle": "Live spaces and discussions. Connect with fellow product managers."
             },
             {
               "type": "ebook",
               "title": "Cheatsheets and manuals",
-              "subtitle": "Downloadable resources."
+              "subtitle": "Downloadable resources. Get access to exclusive product management guides."
             }
         ],
         "primaryCta": {
