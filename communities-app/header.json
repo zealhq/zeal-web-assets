@@ -5,10 +5,7 @@
         { "target": "_blank", "label": "Contact", "url": "https://gozeal.freshdesk.com" }
     ],
     "explore": [
-        { "target": "_self", "label": "Productivity Club", "url": "/communities/pclub" },
-        { "target": "_self", "label": "SciFi Movies Fan Club", "url": "/communities/scifi-movies-fan-club"},
-        { "target": "_self", "label": "Investing CLub", "url": "/communities/investing-club" },
-        { "target": "_self", "label": "Better Health Community", "url": "/communities/better-health-community" }
+        { "target": "_self", "label": "AI Product Managers Hub", "url": "/communities/ai-product-managers-hub" }
     ],
     "blog": [
         {"target": "_blank", "label": "Getting started with Zeal", "url": "/blog/getting-started-zeal"},
