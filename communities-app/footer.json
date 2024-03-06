@@ -22,7 +22,7 @@
             "title": "Community",
             "links": [
                 { "target": "_blank", "label": "Discord", "url": "https://discord.gg/KNdgra8M" },
-                { "target": "_blank", "label": "Twitter", "url": "https://x.com/zeal345909" },
+                { "target": "_blank", "label": "Twitter", "url": "https://x.com/zealconnects" },
                 { "target": "_blank", "label": "Facebook", "url": "https://www.facebook.com/thezealhq" },
                 { "target": "_blank", "label": "Youtube", "url": "https://www.youtube.com/channel/UCqQdtkl7luU7mm3ZeEyRGEg" },
                 { "target": "_blank", "label": "Report a Bug", "url": "https://gozeal.freshdesk.com/support/tickets/new?ticket_form=report_an_issue" }
@@ -30,7 +30,7 @@
         }
     ],
     "social": [
-        { "target": "_blank", "type": "twitter", "url": "https://x.com/zeal345909" },
+        { "target": "_blank", "type": "twitter", "url": "https://x.com/zealconnects" },
         { "target": "_blank", "type": "facebook", "url": "https://www.facebook.com/thezealhq" },
         { "target": "_blank", "type": "youtube", "url": "https://www.youtube.com/channel/UCqQdtkl7luU7mm3ZeEyRGEg" },
         { "target": "_blank", "type": "discord", "url": "https://discord.gg/KNdgra8M"}
