@@ -13,9 +13,9 @@
         {
             "title": "Legal",
             "links": [
-                { "target": "_blank", "label": "Terms of Use", "url": "/terms" },
-                { "target": "_blank", "label": "Privacy Policy", "url": "/privacy-policy" },
-                { "target": "_blank", "label": "Cookie Policy", "url": "/cookie-policy" }
+                { "target": "_blank", "label": "Terms of Use", "url": "https://www.iubenda.com/terms-and-conditions/58652091" },
+                { "target": "_blank", "label": "Privacy Policy", "url": "https://www.iubenda.com/privacy-policy/58652091" },
+                { "target": "_blank", "label": "Cookie Policy", "url": "https://www.iubenda.com/privacy-policy/58652091/cookie-policy" }
             ]
         },
         {
