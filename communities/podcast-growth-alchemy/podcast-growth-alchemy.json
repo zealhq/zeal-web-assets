@@ -1,0 +1,93 @@
+{
+    "slug": "podcast-growth-alchemy",
+    "title": "Podcast Growth Alchemy Community",
+    "summary": "On Podcast Growth Alchemy, we dive deep into the intricacies of community building and share strategies on launching, growing, and monetizing your podcast, leveraging the latest AI tools, and getting more listeners.",
+    "description": "Ready to unlock the power of your podcast community? Join us on Podcast Growth Alchemy where we dive deep into the intricacies of community building. Learn from experts, get actionable tips, and discover how to build a thriving community. We discuss strategies on launching, growing, and monetizing your podcast, leveraging the latest AI tools, and getting more listeners.",
+    "imgUrl": "https://zealhq.github.io/zeal-web-assets/communities/podcast-growth-alchemy/podcast-growth-alchemy-card-v001.jpg",
+    "category": "Podcasting",
+    "perksCount": 0,
+    "content": {
+        "image": {
+            "url": "https://zealhq.github.io/zeal-web-assets/communities/podcast-growth-alchemy/podcast-growth-alchemy-main-v001.jpg",
+            "alt": "Podcast Growth Alchemy Community"
+        },
+        "featuredPerks": [],
+        "highlights": [
+            {
+              "type": "chat",
+              "title": "Excusive interviews",
+              "subtitle": "Insightful conversations with podcasters. Learn from the best in the industry."
+            },
+            {
+              "type": "community",
+              "title": "Community connect",
+              "subtitle": "Live spaces and discussions. Connect with fellow podcasters."
+            },
+            {
+              "type": "ebook",
+              "title": "Guides and tutorials",
+              "subtitle": "Exclusive content creation and community building guides and tutorials."
+            }
+        ],
+        "primaryCta": {
+            "title": "Get started now!",
+            "summary": "Here's a short quiz to get you started! Answer a few simple questions to get your personalized community building plan!",
+            "link": {
+                "text": "Take the quiz",
+                "url": "https://www.notion.so/gozeal/Quiz-Podcast-Growth-Alchemy-Community-4201995f83e946f3a1ef2137b1232f66"
+            },
+            "image": {
+                "url": "https://zealhq.github.io/zeal-web-assets/communities/podcast-growth-alchemy/podcast-growth-alchemy-quiz-v001.jpg",
+                "alt": "This short quiz will help us understand your unique perspective and needs as a content creator."
+            }
+        },
+        "communityBuzz": []
+    },
+    "channel": {
+        "type": "podcast",
+        "infoText": "About the Podcast",
+        "title": "Podcast Growth Alchemy",
+        "summary": "Whether you're a new podcaster or looking to scale your existing audience, Podcast Growth Alchemy is your guide to building a powerful community that fuels your podcast success. Tune in for strategies on launching, growing, and monetizing your podcast: actionable insights from successful podcasters, the latest AI tools and trends: social media promotion hacks and more!",
+        "image": {
+            "url": "https://zealhq.github.io/zeal-web-assets/communities/podcast-growth-alchemy/podcast-growth-alchemy-channel-v001.jpg",
+            "alt": "Podcast Growth Alchemy"
+        },
+        "links": [
+            {
+                "type": "link",
+                "url": "https://gozeal.notion.site/Podcast-Growth-Alchemy-Podcast-4a7183967e22414d8a716f95dfce8b62"
+            },
+            {
+                "type": "spotify",
+                "url": "https://gozeal.notion.site/Podcast-Growth-Alchemy-Podcast-4a7183967e22414d8a716f95dfce8b62"
+            },
+            {
+                "type": "apple",
+                "url": "https://gozeal.notion.site/Podcast-Growth-Alchemy-Podcast-4a7183967e22414d8a716f95dfce8b62"
+            },
+            {
+                "type": "youtube",
+                "url": "https://gozeal.notion.site/Podcast-Growth-Alchemy-Podcast-4a7183967e22414d8a716f95dfce8b62"
+            },
+            {
+                "type": "twitter",
+                "url": "https://gozeal.notion.site/Podcast-Growth-Alchemy-Podcast-4a7183967e22414d8a716f95dfce8b62"
+            },
+            {
+                "type": "facebook",
+                "url": "https://gozeal.notion.site/Podcast-Growth-Alchemy-Podcast-4a7183967e22414d8a716f95dfce8b62"
+            },
+            {
+                "type": "instagram",
+                "url": "https://gozeal.notion.site/Podcast-Growth-Alchemy-Podcast-4a7183967e22414d8a716f95dfce8b62"
+            },
+            {
+                "type": "discord",
+                "url": "https://discord.gg/zT7rKVFx"
+            }
+        ]
+    },
+    "config": {
+        "joinUrl": "https://gozeal.notion.site/Getting-Started-Join-Now-9979c1a9bcfe48da9365d70eb6a39d48"
+    }
+}
